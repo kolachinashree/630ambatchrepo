@@ -1,0 +1,7 @@
+apple
+grapes
+pineapple
+orange
+cherry
+bananna
+jackfruit
